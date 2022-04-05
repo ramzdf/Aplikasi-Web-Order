@@ -23,10 +23,10 @@
                                     <th scope="col">User</th>
                                     <th scope="col">Phone/Email</th>
                                     <th scope="col">Date/Time</th>
-                                    <th scope="col">Pizza</th>
-                                    <th scope="col">S. pizza</th>
-                                    <th scope="col">M. pizza</th>
-                                    <th scope="col">L. pizza</th>
+                                    <th scope="col">Panen</th>
+                                    <th scope="col">Padi</th>
+                                    <th scope="col">Jagung</th>
+                                    <th scope="col">Kacang</th>
                                     <th scope="col">Total($)</th>
                                     <th scope="col">Message</th>
                                     <th scope="col">Status</th>
